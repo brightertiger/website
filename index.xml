@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ujjwal Singh Rao</title>
-    <link>http://ujjwalsrao.xyz/</link>
+    <link>https://brightertiger.github.io/website/</link>
     <description>Recent content on Ujjwal Singh Rao</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://ujjwalsrao.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://brightertiger.github.io/website/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

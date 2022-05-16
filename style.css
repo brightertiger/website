@@ -136,7 +136,7 @@ h1
 
 .inner section
 {
-	margin:100px auto;
+	margin:50px auto;
 }
 
 ul
@@ -149,6 +149,7 @@ ul
 
 table {
    border: none;
+   font-size:18px;
 }
 
 .skill-set li

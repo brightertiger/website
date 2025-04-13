@@ -400,3 +400,45 @@ footer {
     font-size: 1.2rem;
   }
 }
+
+/* Blog Section */
+.blog {
+  margin-bottom: 3rem;
+}
+
+.blog-articles {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.blog-article {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+  border-radius: 8px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.blog-article:hover {
+  transform: translateY(-2px);
+}
+
+.blog-article h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.25rem;
+}
+
+.blog-article h3 a {
+  color: #2c3e50;
+  text-decoration: none;
+}
+
+.blog-article h3 a:hover {
+  color: #3498db;
+}
+
+.blog-article p {
+  margin: 0;
+  color: #666;
+  line-height: 1.6;
+}

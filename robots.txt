@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ujjwalsinghrao.com/sitemap.xml
+Sitemap: https://ujjwalsrao.xyz/sitemap.xml
 
 # Crawl-delay for respectful crawling
 Crawl-delay: 1

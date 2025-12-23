@@ -205,9 +205,6 @@ section {
 
 .profile-image {
   flex-shrink: 0;
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
 }
 
 .profile-image img {
@@ -227,11 +224,16 @@ section {
 .text-content {
   flex: 1;
   min-width: 0;
+  padding-top: 0.25rem;
 }
 
 .text-content p:first-of-type {
   margin-top: 0;
   font-size: 1.1rem;
+}
+
+.text-content p:last-of-type {
+  margin-bottom: 0;
 }
 
 /* Job entries */
